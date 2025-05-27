@@ -114,6 +114,8 @@ Un fichier alice.txt est alors généré.
 
 echo -n "alice2025" | sha256sum | awk '{print $1}' > hash.txt
 
+![Capture – Créer un hash simulé](cupp8.PNG)
+
 ---
 
 ## Vérifier que le mot est dans le dictionnaire
