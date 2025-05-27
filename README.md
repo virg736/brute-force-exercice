@@ -127,7 +127,7 @@ hashcat -m 1400 -a 0 hash.txt alice.txt --show
 
 f9335706... : alice2025
 
-![casser le hash avec hashcat](cupp10.jpg)
+![Capture – Casser le hash avec Hashcat](cupp10.jpg)
 
 ---
 
