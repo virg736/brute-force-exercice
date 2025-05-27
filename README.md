@@ -1,14 +1,24 @@
-# brute-force-exercice
-Exercice pédagogique de démonstration d'une attaque par force brute sur un mot de passe fictif, à des fins éducatives seulement.
+# Brute Force
 
-Exercice OSINT & Brute Force — CUPP + Hashcat (Kali Linux)
+**Exercice pédagogique de démonstration d'une attaque par force brute sur un mot de passe fictif, à des fins éducatives seulement.**
 
+## Sommaire
 
-# Exercice pédagogique : OSINT & Brute Force avec CUPP et Hashcat
+- [Avertissement](#avertissement)
+- [Objectif de l'exercice](#objectif-de-lexercice)
+- [Outils utilisés](#outils-utilisés)
+- [Étapes pas à pas](#étapes-pas-à-pas)
+- [1. Cloner le dépôt CUPP](#1-cloner-le-dépôt-cupp)
+- [2. Lancer le script pour générer un dictionnaire](#2-lancer-le-script-pour-générer-un-dictionnaire)
+- [3. Créer un hash simulé](#3-créer-un-hash-simulé)
+- [4. Vérifier que le mot est dans le dictionnaire](#4-vérifier-que-le-mot-est-dans-le-dictionnaire)
+- [5. Casser le hash avec Hashcat](#5-casser-le-hash-avec-hashcat)
+- [Conclusion](#conclusion)
+- [Licence](#licence)
 
+---
 
-## **Avertissement**
-
+## Avertissement
 
 > **Ce projet est réalisé dans un cadre pédagogique.**  
 
@@ -43,9 +53,14 @@ Ce projet a pour objectif de démontrer comment des informations simples trouvé
 - Terminal Bash
 
 ---
-## **Étapes pas à pas**
 
-### **1. Cloner le dépôt CUPP**
+## Étapes pas à pas
+
+
+
+### 1. Cloner le dépôt CUPP
+
+
 
 ```bash
 
@@ -53,95 +68,30 @@ cd /opt
 
 git clone https://github.com/Mebus/cupp.git
 
-cd cupp 
+cd cupp
 
-2. Lancer le script pour générer un dictionnaire
-
-python3 cupp.py -i
-
-Répondre aux questions avec des données fictives, par exemple :
-
-First name: Alice
-
-Surname: Dupont
-
-Nickname: al
-
-Birthdate: 01011990
-
-Partner's name: Bob
-
-Child's name: Camille
-
-Pet's name: Milou
-
-Company: CyberSec
-
-Puis, à la suite :
-
-• Ajouter des mots-clés ? Oui
-
-• Entrer : alice2025,password,cybersecurite,hacker
-
-• Ajouter caractères spéciaux ? Oui
-
-• Ajouter des chiffres aléatoires ? Oui
-
-• Mode leet ? Oui
-
-• Hyperspeed Print ? Non
+---
 
 
 
-Le fichier alice.txt sera généré avec plusieurs milliers de mots.
 
 
 
-3. Créer un hash simulé
 
 
 
-On imagine que alice2025 est le mot de passe “réel”.
 
 
 
-echo -n "alice2025" | sha256sum | awk '{print $1}' > hash.txt
 
 
 
-4. Vérifier qu’il est bien dans le dictionnaire
 
 
 
-grep alice2025 alice.txt
 
 
 
-5. Utiliser Hashcat pour “casser” le hash
-
-
-
-hashcat -m 1400 -a 0 hash.txt alice.txt --show
-
-
-
-Tu verras un résultat de ce type :
-
-
-
-f9335706... : alice2025
-
-
-
-Cela montre que le mot de passe alice2025 a été trouvé car il était présent dans le dictionnaire généré.
-
-
-
-⸻
-
-
-
-Conclusion
 
 
 
