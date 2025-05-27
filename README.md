@@ -56,13 +56,7 @@ Ce projet a pour objectif de démontrer comment des informations simples trouvé
 
 ## Étapes pas à pas
 
-
-
-### 1. Cloner le dépôt CUPP
-
-
-
-```bash
+ Cloner le dépôt CUPP
 
 cd /opt
 
