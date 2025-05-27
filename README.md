@@ -1,17 +1,21 @@
 Brute Force — Exercice pédagogique
 
+---
+
 ## Sommaire
 
+- [Avertissement](#avertissement)
+- [Objectif de l'exercice](#objectif-de-lexercice)
+- [Outils utilisés](#outils-utilisés)
 - [Étapes pas à pas](#étapes-pas-à-pas)
 - [Cloner le dépôt CUPP](#cloner-le-dépôt-cupp)
 - [Générer un dictionnaire avec CUPP](#générer-un-dictionnaire-avec-cupp)
 - [Créer un hash simulé](#créer-un-hash-simulé)
-- [ Vérifier si le mot est dans le dictionnaire](#vérifier-si-le-mot-est-dans-le-dictionnaire)
+- [Vérifier si le mot est dans le dictionnaire](#vérifier-si-le-mot-est-dans-le-dictionnaire)
 - [Casser le hash avec Hashcat](#casser-le-hash-avec-hashcat)
 - [Remarque sur la difficulté réelle](#remarque-sur-la-difficulté-réelle)
 - [Conclusion](#conclusion)
-  
-
+- [Licence](#licence)
 
 ---
 
