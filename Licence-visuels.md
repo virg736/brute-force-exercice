@@ -7,4 +7,4 @@ Vous pouvez les partager librement, à condition :
 - De ne pas les modifier
 - De mentionner clairement l’auteure : Virginie Lechenel
 
-© 2025 Virginie Lechenel – Tous droits réservés hors cadre de cette licence.
+© 2025 Virginie Lechene – Tous droits réservés hors cadre de cette licence.
