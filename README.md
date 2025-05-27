@@ -126,6 +126,8 @@ hashcat -m 1400 -a 0 hash.txt alice.txt --show
 
 f9335706... : alice2025
 
+![Capture](images/cupp10.jpg)
+
 ---
 
 ## Conclusion
