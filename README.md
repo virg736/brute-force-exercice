@@ -106,6 +106,40 @@ Un fichier alice.txt est alors généré.
 
 ---
 
+## Créer un hash simulé
+
+echo -n "alice2025" | sha256sum | awk '{print $1}' > hash.txt
+
+---
+
+## Vérifier que le mot est dans le dictionnaire
+
+grep alice2025 alice.txt
+
+---
+
+## Casser le hash avec Hashcat
+
+hashcat -m 1400 -a 0 hash.txt alice.txt --show
+
+- Résultat attendu :
+
+f9335706... : alice2025
+
+---
+
+## Conclusion
+
+
+Ce projet montre comment une simple recherche d’information peut générer des mots de passe réalistes.
+
+D’où l’importance :
+
+De ne jamais utiliser d’informations personnelles pour ses mots de passe.
+
+D’utiliser des gestionnaires de mots de passe robustes.
+
+De sensibiliser à la sécurité numérique dès le plus jeune âge.
 
 
 
