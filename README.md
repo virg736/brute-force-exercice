@@ -1,4 +1,20 @@
 Brute Force — Exercice pédagogique
+<p align="center">
+<img src="Brute%20Force.PNG" alt="Brute Force Image" width="100%">
+</p>
+
+<p align="center">
+© 2025 droit auteur – Licence <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+<br>Image créée dans le cadre d’un projet étudiant.
+</p>
+
+<p align="center">
+<a href="https://creativecommons.org/licenses/by/4.0/">
+<img src="https://licensebuttons.net/l/by/4.0/88x31.png" alt="CC BY 4.0">
+</a>
+</p>
+
+
 
 ---
 
@@ -190,8 +206,12 @@ Le projet est distribué **"en l’état", sans aucune garantie**, conformément
 
 ##  Auteur / Droits
 
-© 2025 Virginie Lechene — Tous droits réservés.
-Reproduction interdite sans autorisation.
+## Droits sur les contenus visuels
+
+Les visuels, images ou illustrations présents dans ce dépôt sont la propriété exclusive de l’auteur.
+Toute reproduction, modification ou réutilisation sans autorisation est interdite.
+© 2025 Virginie Lechene – Tous droits réservés.
+
 
 
 
