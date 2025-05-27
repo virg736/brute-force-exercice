@@ -34,12 +34,9 @@ Ces dictionnaires sont ensuite testés avec Hashcat, dans un environnement local
 
 ## **Objectif de l'exercice**
 
-
-- Utiliser l'outil CUPP pour générer un fichier de mots de passe.
-
-- Simuler un mot de passe réel (hash SHA-256).
-
-- Utiliser Hashcat pour retrouver ce mot de passe à partir du dictionnaire généré.
+- Générer un fichier de mots de passe personnalisé avec l’outil CUPP.
+- Créer un hachage SHA-256 pour simuler un mot de passe réel.
+- Utiliser Hashcat pour tester et retrouver ce mot de passe à partir du dictionnaire généré.
 
 ---
 
