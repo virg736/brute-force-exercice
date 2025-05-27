@@ -14,7 +14,7 @@ Brute Force — Exercice pédagogique
 </a>
 </p>
 
-
+<img src="https://img.shields.io/badge/stability-stable-brightgreen.svg" alt="Stabilité: stable">
 
 ---
 
