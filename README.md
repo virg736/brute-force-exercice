@@ -130,8 +130,28 @@ f9335706... : alice2025
 
 ## Conclusion
 
+Remarque importante sur la difficulté réelle
 
-Ce projet montre comment une simple recherche d’information peut générer des mots de passe réalistes.
+
+Cet exercice simplifie volontairement l’utilisation de Hashcat dans un environnement local et maîtrisé, avec des données fictives.
+
+
+Dans un contexte réel, retrouver un mot de passe à l’aide d’un hash peut être extrêmement difficile, voire impossible, pour plusieurs raisons :
+
+Longueur et complexité du mot de passe : plus un mot de passe est long et utilise des caractères variés (majuscules, minuscules, chiffres, caractères spéciaux), plus il est difficile à casser.
+
+Algorithmes de hachage sécurisés : des fonctions comme bcrypt, scrypt ou argon2 sont conçues pour ralentir considérablement les attaques par force brute.
+
+Puissance de calcul requise : casser un mot de passe fort peut demander des jours ou semaines de calcul avec des GPU haut de gamme.
+
+Dictionnaire incomplet : si le mot de passe ne figure pas dans le dictionnaire généré, il ne pourra pas être retrouvé.
+
+Protection contre les attaques : dans des environnements réels, les systèmes mettent souvent en place des protections contre les tentatives répétées.
+
+
+
+Conclusion : cet exercice pédagogique montre une méthode en théorie, mais ne reflète pas la complexité réelle de casser des mots de passe modernes correctement protégés.
+
 
 D’où l’importance :
 
@@ -164,8 +184,3 @@ De sensibiliser à la sécurité numérique dès le plus jeune âge.
 
 
 
-Ce projet montre comment une simple recherche d’information sur une “victime” peut aider à générer des mots de passe très probables. C’est pourquoi il est important :
-
-• De ne pas utiliser d’informations personnelles pour ses mots de passe.
-
-• D’utiliser des gestionnaires de mots de passe et des mots de passe complexes.
