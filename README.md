@@ -19,12 +19,11 @@ Brute Force — Exercice pédagogique
 
 ## Avertissement
 
-> **Ce projet est réalisé dans un cadre pédagogique.**  
+ **Ce projet est réalisé dans un cadre pédagogique.**  
 
-> **Toutes les données utilisées sont fictives.**  
+ **Toutes les données utilisées sont fictives.**  
 
-> **Il est strictement interdit de reproduire cette méthode sur des personnes réelles ou sans autorisation.**
-
+ **Il est strictement interdit de reproduire cette méthode sur des personnes réelles ou sans autorisation.**
 
 Ce projet a pour objectif de démontrer comment des informations simples trouvées par OSINT peuvent être utilisées pour générer des dictionnaires de mots de passe, et comment ceux-ci peuvent être testés avec Hashcat dans un environnement **local** et **contrôlé**.
 
