@@ -65,6 +65,8 @@ git clone https://github.com/Mebus/cupp.git
 
 cd cupp
 
+![Capture – Étapes pas à pas](cupp1.PNG)
+
 ---
 
 ## Lancer le script pour générer un dictionnaire
