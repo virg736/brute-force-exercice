@@ -1,20 +1,21 @@
-Brute Force — Exercice pédagogique
+Brute Force Exercice
+
 <p align="center">
 <img src="Brute%20Force.PNG" alt="Brute Force Image" width="100%">
 </p>
 
 <p align="center">
-© 2025 droit auteur – Licence <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
-<br>Image créée dans le cadre d’un projet étudiant.
+© 2025 Virginie Lechenel — Licence
+<a href="https://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND 4.0</a><br>
+Image créée dans le cadre d’un projet étudiant.
 </p>
 
 <p align="center">
-<a href="https://creativecommons.org/licenses/by/4.0/">
-<img src="https://licensebuttons.net/l/by/4.0/88x31.png" alt="CC BY 4.0">
+<a href="https://creativecommons.org/licenses/by-nd/4.0/">
+<img src="https://licensebuttons.net/l/by-nd/4.0/88x31.png" alt="CC BY-ND 4.0">
 </a>
+<img src="https://img.shields.io/badge/stabilité-stable-brightgreen.svg" alt="Stabilité : stable">
 </p>
-
-<img src="https://img.shields.io/badge/stability-stable-brightgreen.svg" alt="Stabilité: stable">
 
 ---
 
