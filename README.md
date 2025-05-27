@@ -66,6 +66,47 @@ cd cupp
 
 ---
 
+## Lancer le script pour générer un dictionnaire
+
+python3 cupp.py -i
+
+
+Répondre aux questions avec des données fictives :
+
+First name: Alice
+
+Surname: Dupont
+
+Nickname: al
+
+Birthdate: 01011990
+
+Partner’s name: Bob
+
+Child’s name: Camille
+
+Pet’s name: Milou
+
+Company: CyberSec
+
+
+Puis :
+
+Ajouter des mots-clés ? Oui → alice2025,password,cybersecurite,hacker
+
+Ajouter caractères spéciaux ? Oui
+
+Ajouter des chiffres aléatoires ? Oui
+
+Mode leet ? Oui
+
+Hyperspeed Print ? Non
+
+Un fichier alice.txt est alors généré.
+
+---
+
+
 
 
 
