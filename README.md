@@ -1,20 +1,20 @@
-# Brute Force
-
-**Exercice pédagogique de démonstration d'une attaque par force brute sur un mot de passe fictif, à des fins éducatives seulement.**
+Brute Force — Exercice pédagogique
 
 ## Sommaire
 
-- [Avertissement](#avertissement)
-- [Objectif de l'exercice](#objectif-de-lexercice)
-- [Outils utilisés](#outils-utilisés)
-- [Étapes pas à pas](#étapes-pas-à-pas)
+1. [Avertissement](#avertissement)
+2. [Objectif de l'exercice](#objectif-de-lexercice)
+3. [Outils utilisés](#outils-utilisés)
+4. [Étapes pas à pas](#étapes-pas-à-pas)
 - [1. Cloner le dépôt CUPP](#1-cloner-le-dépôt-cupp)
-- [2. Lancer le script pour générer un dictionnaire](#2-lancer-le-script-pour-générer-un-dictionnaire)
+- [2. Générer un dictionnaire avec CUPP](#2-générer-un-dictionnaire-avec-cupp)
 - [3. Créer un hash simulé](#3-créer-un-hash-simulé)
-- [4. Vérifier que le mot est dans le dictionnaire](#4-vérifier-que-le-mot-est-dans-le-dictionnaire)
+- [4. Vérifier si le mot est dans le dictionnaire](#4-vérifier-si-le-mot-est-dans-le-dictionnaire)
 - [5. Casser le hash avec Hashcat](#5-casser-le-hash-avec-hashcat)
-- [Conclusion](#conclusion)
-- [Licence](#licence)
+5. [Remarque sur la difficulté réelle](#remarque-sur-la-difficulté-réelle)
+6. [Conclusion](#conclusion)
+7. [Licence](#licence)
+
 
 ---
 
