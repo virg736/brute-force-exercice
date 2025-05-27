@@ -8,8 +8,6 @@ Brute Force — Exercice pédagogique
 - [Objectif de l'exercice](#objectif-de-lexercice)
 - [Outils utilisés](#outils-utilisés)
 - [Étapes pas à pas](#étapes-pas-à-pas)
-- [Cloner le dépôt CUPP](#cloner-le-dépôt-cupp)
-- [Générer un dictionnaire avec CUPP](#générer-un-dictionnaire-avec-cupp)
 - [Créer un hash simulé](#créer-un-hash-simulé)
 - [Vérifier si le mot est dans le dictionnaire](#vérifier-si-le-mot-est-dans-le-dictionnaire)
 - [Casser le hash avec Hashcat](#casser-le-hash-avec-hashcat)
@@ -67,6 +65,8 @@ cd cupp
 
 ![Capture – Étapes pas à pas](cupp1.PNG)
 
+![Capture – Étapes pas à pas](cupp3.PNG)
+
 ---
 
 ## Lancer le script pour générer un dictionnaire
@@ -108,6 +108,7 @@ Hyperspeed Print ? Non
 Un fichier alice.txt est alors généré.
 
 ---
+
 
 ## Créer un hash simulé
 
