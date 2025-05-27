@@ -5,7 +5,7 @@ Brute Force Exercice
 </p>
 
 <p align="center">
-© 2025 Virginie Lechenel — Licence
+© 2025 Virginie Lechene — Licence
 <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND 4.0</a><br>
 Image créée dans le cadre d’un projet étudiant.
 </p>
