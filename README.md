@@ -94,7 +94,7 @@ Company: CyberSec
 
 Puis :
 
-Ajouter des mots-clés ? Oui → alice2025,password,cybersecurite,hacker
+Ajouter des mots-clés ? Oui → alice2025, password, cybersecurite, hacker
 
 Ajouter caractères spéciaux ? Oui
 
