@@ -31,6 +31,21 @@ The purpose of this project is to demonstrate how simple information gathered th
 These dictionaries are then tested using Hashcat in a secure, local environment.
 
 ---
+## Table of Contents
+
+- [Disclaimer](#disclaimer)
+- [Exercise Objective](#exercise-objective)
+- [Tools Used](#tools-used)
+- [Step-by-Step Guide](#step-by-step-guide)
+- [Create a Simulated Hash](#create-a-simulated-hash)
+- [Check if the Password is in the Dictionary](#check-if-the-password-is-in-the-dictionary)
+- [Crack the Hash with Hashcat](#crack-the-hash-with-hashcat)
+- [Note on Real-World Difficulty](#note-on-real-world-difficulty)
+- [Conclusion](#conclusion)
+- [License](#license)
+
+
+---
 
 ##  Exercise Objective
 
@@ -61,7 +76,6 @@ These dictionaries are then tested using Hashcat in a secure, local environment.
 
 ### Clone the CUPP repository
 
-```bash
 cd /opt
 git clone https://github.com/Mebus/cupp.git
 cd cupp
@@ -71,7 +85,6 @@ cd cupp
 
 ## 🛠️ Run the script to generate a dictionary
 
-```bash
 python3 cupp.py -i
 
 
@@ -83,7 +96,6 @@ Partner’s name: Bob
 Child’s name: Camille
 Pet’s name: Milou
 Company: CyberSec
-
 
 Then:
 
@@ -113,14 +125,11 @@ A file named `alice.txt` will then be generated.
 
 ## 🔐 Create a simulated hash
 
-```bash
 echo -n "alice2025" | sha256sum | awk '{print $1}' > hash.txt
-
 
 
 ##  Check if the password is in the dictionary
 
-```bash
 grep alice2025 alice.txt
 
 🔓 Crack the hash with Hashcat
