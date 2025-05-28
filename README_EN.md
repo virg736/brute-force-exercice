@@ -20,13 +20,13 @@
 
 ## ⚠️ Disclaimer
 
-This project is intended for educational purposes only.
+This project is intended strictly for educational purposes.
 
 All data used is entirely fictitious.
 
-It is strictly forbidden to apply these methods to real individuals or systems without explicit authorization.
+Applying these methods to real individuals or systems without explicit authorization is strictly prohibited.
 
-The purpose of this project is to demonstrate how simple information gathered through OSINT can be used to generate custom password dictionaries.
+The goal of this project is to demonstrate how simple information gathered through OSINT can be used to generate custom password dictionaries.
 
 These dictionaries are then tested using Hashcat in a secure, local environment.
 
