@@ -1,13 +1,12 @@
 # Brute Force Exercise
 
 <p align="center">
-<img src="Brute2Force.PNG" alt="Brute Force Image" width="100%">
+<img src="Brute%20Force.PNG" alt="Brute Force Image" width="100%">
 </p>
 
 <p align="center">
 © 2025 Virginie Lechene — License<br>
 <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND 4.0</a><br>
-Image created as part of a student project.
 </p>
 
 <p align="center">
