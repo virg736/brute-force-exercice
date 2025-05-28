@@ -105,7 +105,24 @@ Then:
 - Leet mode? → Yes
 - Hyperspeed Print? → No
 
-A file named `alice.txt` will then be generated.
+  ### 🔐 Custom Keyword Generation
+
+The script automatically generates realistic password keywords based on user-provided personal information (e.g. first name, nickname, birthdate, pet name, etc.).
+
+**Example:**
+If the user enters `al` as a nickname, the script may expand it to `alice`. Then, it adds a common year (like `2025`) to form a potential password: `alice2025`.
+
+These kinds of combinations are then added to the custom wordlist along with other variants, such as:
+- `alice2025`
+- `Alice@CyberSec`
+- `Milou1990`
+- `Camille0101!`
+- `cYb3rS3c`
+
+ **Educational purpose:**
+This demonstrates how attackers can use simple and public information to generate predictable passwords, especially in targeted brute-force attacks.
+
+A file named `alice.txt` is generated with all the combinations.
 
 ---
 
