@@ -132,6 +132,8 @@ A file named `alice.txt` will then be generated.
 
 echo -n "alice2025" | sha256sum | awk '{print $1}' > hash.txt
 
+![Capture – Créer un hash simulé](cupp8.PNG)
+
 
 ##  Check if the password is in the dictionary
 
