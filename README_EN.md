@@ -72,6 +72,11 @@ These dictionaries are then tested using Hashcat in a secure, local environment.
 
 ## Step-by-step instructions
 
+![Capture – Étapes pas à pas](cupp1.PNG)
+
+![Capture – Étapes pas à pas](cupp3.PNG)
+
+
 ---
 
 ### Clone the CUPP repository
