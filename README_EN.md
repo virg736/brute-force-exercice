@@ -148,10 +148,10 @@ In a real-world scenario, retrieving a password using a hash can be extremely di
 
 ### Final Word
 
-This educational exercise demonstrates a theoretical method, but does not reflect the actual complexity of cracking modern and properly protected passwords.
+This educational exercise demonstrates a theoretical method, but it does not reflect the actual complexity of cracking modern and properly protected passwords.
 
 This is why it's important to:
-- Never use personal information in your passwords.
+- Avoid using personal information in your passwords.
 - Use strong and secure password managers.
 - Promote cybersecurity awareness from an early age.
 
