@@ -53,12 +53,6 @@ These dictionaries are then tested using Hashcat in a secure, local environment.
 - Create a SHA-256 hash to simulate a real password.
 - Use Hashcat to test and crack the password from the generated dictionary.
 
-##  Exercise Objective
-
-- Generate a personalized password list using the **CUPP** tool.
-- Create a SHA-256 hash to simulate a real password.
-- Use **Hashcat** to test and recover this password from the generated dictionary.
-
 ---
 
 ## 🛠️ Tools Used
