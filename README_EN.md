@@ -159,10 +159,9 @@ This is why it's important to:
 
 ## ⚠️ Legal Warning
 
-This project is intended exclusively for educational purposes within the framework of cybersecurity training.
-
-The author does not endorse or authorize the use of these techniques outside of a strictly defined legal context.
-Any unauthorized use is prohibited and is the sole responsibility of the user.
+This project is intended solely for educational purposes within the scope of cybersecurity training.
+The author does not endorse or authorize the use of these techniques outside a clearly defined legal framework.
+Any unauthorized use is strictly prohibited and remains the sole responsibility of the user.
 
 ---
 
