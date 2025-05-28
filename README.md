@@ -152,38 +152,46 @@ f9335706... : alice2025
 
 ---
 
-## Conclusion
+ ## Conclusion
 
-Remarque importante sur la difficulté réelle
+⚠️
 
-
-Cet exercice simplifie volontairement l’utilisation de Hashcat dans un environnement local et maîtrisé, avec des données fictives.
-
-
-Dans un contexte réel, retrouver un mot de passe à l’aide d’un hash peut être extrêmement difficile, voire impossible, pour plusieurs raisons :
-
-Longueur et complexité du mot de passe : plus un mot de passe est long et utilise des caractères variés (majuscules, minuscules, chiffres, caractères spéciaux), plus il est difficile à casser.
-
-Algorithmes de hachage sécurisés : des fonctions comme bcrypt, scrypt ou argon2 sont conçues pour ralentir considérablement les attaques par force brute.
-
-Puissance de calcul requise : casser un mot de passe fort peut demander des jours ou semaines de calcul avec des GPU haut de gamme.
-
-Dictionnaire incomplet : si le mot de passe ne figure pas dans le dictionnaire généré, il ne pourra pas être retrouvé.
-
-Protection contre les attaques : dans des environnements réels, les systèmes mettent souvent en place des protections contre les tentatives répétées.
+Ce projet a été conçu dans un but strictement pédagogique, en utilisant un environnement local, maîtrisé, et des données fictives. Il permet d’illustrer le fonctionnement fondamental des attaques par force brute à l’aide de l’outil Hashcat, dans un cadre simplifié.
 
 
+Cependant, dans un contexte réel, la récupération d’un mot de passe à partir de son empreinte (hash) peut s’avérer extrêmement complexe, voire impossible, en raison de plusieurs facteurs :
 
-Conclusion : cet exercice pédagogique montre une méthode en théorie, mais ne reflète pas la complexité réelle de casser des mots de passe modernes correctement protégés.
+Complexité des mots de passe : plus un mot de passe est long et contient une combinaison variée de caractères (lettres, chiffres, symboles), plus il est difficile à casser.
+
+Algorithmes de hachage robustes : des fonctions telles que bcrypt, scrypt ou argon2 sont conçues pour rendre les attaques très coûteuses en temps et en ressources.
+
+Puissance de calcul nécessaire : le cassage d’un mot de passe fort peut exiger des jours, voire des semaines de calcul intensif, même avec des GPU haut de gamme.
+
+Limitations des dictionnaires : si le mot de passe n’est pas inclus dans le dictionnaire utilisé, il ne pourra pas être trouvé.
+
+Contremesures techniques : les systèmes réels mettent souvent en place des protections contre les tentatives répétées (verrouillage de compte, délais progressifs, CAPTCHA, etc.).
 
 
-D’où l’importance :
 
-De ne jamais utiliser d’informations personnelles pour ses mots de passe.
+🔐 Cependant, même un mot de passe long et complexe peut être compromis, notamment par des techniques telles que le phishing, l’installation de malwares, ou la fuite de bases de données.
 
-D’utiliser des gestionnaires de mots de passe robustes.
+C’est pourquoi il est essentiel d’activer l’authentification à deux facteurs (2FA), afin d’ajouter une couche supplémentaire de sécurité aux comptes sensibles.
 
-De sensibiliser à la sécurité numérique dès le plus jeune âge.
+✅ À retenir
+
+
+Cet exercice illustre un mécanisme théorique, mais ne reflète pas la complexité des attaques menées dans des environnements modernes et correctement sécurisés. Il vise avant tout à sensibiliser aux enjeux liés à la sécurité des mots de passe et à encourager l’adoption de bonnes pratiques.
+
+- Recommandations
+Utilisez des mots de passe uniques, longs et complexes.
+
+Activez systématiquement l’authentification à deux facteurs (2FA) lorsque cela est possible.
+
+N’utilisez jamais d’informations personnelles dans vos mots de passe.
+
+Utilisez un gestionnaire de mots de passe sécurisé pour créer et stocker vos identifiants.
+
+Sensibilisez votre entourage à la sécurité numérique, dès le plus jeune âge.
 
 ---
 
@@ -193,6 +201,7 @@ De sensibiliser à la sécurité numérique dès le plus jeune âge.
  L’auteure ne cautionne ni n’autorise l’utilisation de ces techniques en dehors d’un cadre légal strictement défini.
  Toute utilisation non autorisée est interdite et relève de la seule responsabilité de l’utilisateur.
 
+---
 
 ##  Auteur / Droits
 
@@ -202,6 +211,7 @@ Les visuels, images ou illustrations présents dans ce dépôt sont la propriét
 Toute reproduction, modification ou réutilisation sans autorisation est interdite.
 © 2025 Virginie Lechene – Tous droits réservés.
 
+---
 
 
 
