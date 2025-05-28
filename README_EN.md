@@ -20,11 +20,11 @@
 
 ## ⚠️ Disclaimer
 
-This project is created for educational purposes only.
+This project is intended for educational purposes only.
 
 All data used is entirely fictitious.
 
-It is strictly forbidden to apply these methods to real individuals or without explicit authorization.
+It is strictly forbidden to apply these methods to real individuals or systems without explicit authorization.
 
 The purpose of this project is to demonstrate how simple information gathered through OSINT can be used to generate custom password dictionaries.
 
