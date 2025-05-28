@@ -7,7 +7,7 @@ Brute Force Exercice
 <p align="center">
 © 2025 Virginie Lechene — Licence
 <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND 4.0</a><br>
-Image créée dans le cadre d’un projet étudiant.
+Image créée dans le cadre d’un projet.
 </p>
 
 <p align="center">
