@@ -148,6 +148,8 @@ Expected result:
 
 f9335706... : alice2025
 
+![Capture – Casser le hash avec Hashcat](cupp10.PNG)
+
 
 ##  Conclusion
 
