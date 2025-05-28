@@ -98,7 +98,7 @@ Company: CyberSec
 
 Then:
 
-Add keywords? → Yes → alice2025, password, cybersecurite, hacker
+Add keywords? → Yes → alice2025, password, cybersecurity, hacker
 
 Add special characters? → Yes
 
