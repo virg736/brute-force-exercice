@@ -169,6 +169,6 @@ Any unauthorized use is strictly prohibited and remains the sole responsibility 
 
 ### Visual Content Rights
 
-All visuals, images, or illustrations in this repository are the exclusive property of the author.
-Any reproduction, modification, or reuse without permission is strictly prohibited.
+All visuals, images, and illustrations in this repository are the exclusive property of the author.
+Any reproduction, modification, or reuse without prior permission is strictly prohibited.
 © 2025 Virginie Lechene – All rights reserved.
