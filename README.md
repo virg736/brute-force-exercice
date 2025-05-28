@@ -121,7 +121,25 @@ Mode leet ? Oui
 
 Hyperspeed Print ? Non
 
-Un fichier alice.txt est alors généré.
+
+### 🔐 Génération des mots-clés personnalisés
+
+Le script utilise les informations saisies par l’utilisateur (comme le prénom, surnom, date de naissance, etc.) pour générer automatiquement des mots-clés réalistes utilisés dans une wordlist.
+
+Exemple :
+Si l’utilisateur entre `al` comme surnom, le script peut générer `alice` à partir de cette base. Ensuite, il ajoute une année fréquemment utilisée (comme `2025`) pour créer un mot de passe potentiel : `alice2025`.
+
+Ce type de mot-clé est ensuite ajouté à la wordlist avec d'autres variantes comme :
+- `alice2025`
+- `Alice@CyberSec`
+- `Milou1990`
+- `Camille0101!`
+- `cYb3rS3c`
+
+🎯 **But pédagogique :**
+Montrer comment des données simples et accessibles peuvent être transformées en mots de passe prévisibles — comme le ferait un attaquant lors d'une attaque par force brute ciblée.
+
+Un fichier `alice.txt` est généré automatiquement contenant toutes les combinaisons.
 
 ---
 
