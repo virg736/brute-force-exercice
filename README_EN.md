@@ -95,24 +95,11 @@ Partner’s name: Bob
 Child’s name: Camille
 Pet’s name: Milou
 Company: CyberSec
+ 
 
 Then:
 
-Add keywords? → Yes → alice2025, password, cybersecurity, hacker
-
-Add special characters? → Yes
-
-Add random numbers? → Yes
-
-Leet mode? → Yes
-
-Hyperspeed Print? → No
-
-A file named alice.txt will then be generated.
-
-Then:
-
-- Add keywords? → Yes → `alice2025, password, cybersecurite, hacker`
+- Add keywords? → Yes → `alice2025, password, cybersecurity, hacker`
 - Add special characters? → Yes
 - Add random numbers? → Yes
 - Leet mode? → Yes
