@@ -1,7 +1,3 @@
-![ShellCheck](https://github.com/virg736/brute-force-exercice/actions/workflows/shellcheck.yml/badge.svg)
-
----
-
 Brute Force Exercice
 
 <p align="center">
