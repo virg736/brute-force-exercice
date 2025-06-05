@@ -1,5 +1,3 @@
-[![ShellCheck](https://github.com/virg736/brute-force-exercice/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/virg736/brute-force-exercice/actions/workflows/shellcheck.yml)
-
 
 <p align="center">
 <img src="Brute%20Force.PNG" alt="Brute Force Image" width="100%">
