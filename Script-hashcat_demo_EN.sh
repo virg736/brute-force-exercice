@@ -54,3 +54,5 @@ echo "[*] Cracking the hash with Hashcat..."
 hashcat -m 1400 -a 0 hash.txt alice.txt --show
 
 echo "[*] Attack completed."
+
+# test shellcheck fix
