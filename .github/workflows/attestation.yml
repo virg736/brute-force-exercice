@@ -18,4 +18,5 @@ jobs:
       - name: Generate provenance
         uses: actions/attest-build-provenance@v1
         with:
-          subject-path: .
+          subject-path: README.md
+
