@@ -1,5 +1,9 @@
 name: ShellCheck
 
+permissions:
+  contents: read
+  security-events: write
+
 on:
   push:
     paths:
@@ -20,4 +24,3 @@ jobs:
 
       - name: Run ShellCheck on all .sh files
         run: find . -type f -name "*.sh" -exec shellcheck {} +
-
