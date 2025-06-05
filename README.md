@@ -1,6 +1,3 @@
-[![ShellCheck]
-(https://github.com/virg736/brute-force-exercice/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/virg736/brute-force-exercice/actions/workflows/shellcheck.yml)
-
 Brute Force Exercice
 
 <p align="center">
