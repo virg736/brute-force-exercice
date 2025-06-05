@@ -71,3 +71,4 @@ echo "[+] Résultat attendu : le hash doit correspondre à '$PASSWORD'"
 echo "🎓 Exercice terminé. Ce script ne reflète pas la complexité réelle d'une attaque."
 
 # test shellcheck fix
+# relance ShellCheck 
