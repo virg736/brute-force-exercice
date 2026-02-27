@@ -8,9 +8,8 @@
 </p>
 
 <p align="center">
-© 2025 Virginie Lechene - Licence
+© 2025 Virginie Lechene 
 <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND 4.0</a><br>
-Image créée dans le cadre d’un projet.
 </p>
 
 <p align="center">
@@ -19,9 +18,6 @@ Image créée dans le cadre d’un projet.
 </a>
 <img src="https://img.shields.io/badge/stabilité-stable-brightgreen.svg" alt="Stabilité : stable">
 </p>
-<p align="center"><strong>📸 Image protégée - Propriété exclusive</strong></p>
-
-<p align="center">
 
 ---
 
@@ -236,12 +232,12 @@ Ce projet est destiné **exclusivement à des fins pédagogiques**, notamment da
 
 ---
 
-## Droits sur les visuels
+## 📷 Droits sur les visuels
 
-Les visuels, illustrations ou captures présents dans ce dépôt sont la propriété exclusive de l’auteure.
-Toute reproduction ou réutilisation sans **autorisation préalable** est interdite.
+Les visuels de ce dépôt sont protégés par la licence CC BY-ND 4.0.
+Attribution obligatoire – Modification interdite.
 
-© 2025 Virginie Lechene - Tous droits réservés.
+© 2026 Virginie Lechene
 
 ---
 
