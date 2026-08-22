@@ -1,4 +1,9 @@
 <h1 align="center">Brute Force & attaque par dictionnaire - Lab pédagogique</h1>
+<p align="center">
+  <a href="https://github.com/virg736/brute-force-exercice/actions/workflows/shellcheck.yml">
+    <img src="https://github.com/virg736/brute-force-exercice/actions/workflows/shellcheck.yml/badge.svg" alt="ShellCheck">
+  </a>
+</p>
 
 <p align="center">
 <img src="Brute%20Force.PNG" alt="Brute Force Image" width="100%">
